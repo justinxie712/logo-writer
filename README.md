@@ -21,3 +21,4 @@ However, I am proud of the submission I made given my lack of experience. There 
 on had I had more time than just a weekend to complete it.
 
 ![Alt text](logo-writer/demo.png?raw=true "Title")
+![What is this](demo.png)
