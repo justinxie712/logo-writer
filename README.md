@@ -20,4 +20,4 @@ these components was the bulk of the challenge.
 However, I am proud of the submission I made given my lack of experience. There are some things I would have liked to have improved
 on had I had more time than just a weekend to complete it.
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](logo-writer/demo.png?raw=true "Title")
