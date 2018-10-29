@@ -3,8 +3,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Logo-Writer Coding Puzzle
 ## By Justin Xie
 
-Here is my submission for the Viv Lab Frontend Coding Puzzle
-
 ## How it was built
 1. Used ReactJS
 2. Comprises of three main components
