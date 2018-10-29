@@ -34,9 +34,8 @@ these components was the bulk of the challenge.
 However, I am proud of the submission I made given my lack of experience. There are some things I would have liked to have improved
 on had I had more time than just a weekend to complete it.
 
-## Important Notes
-* I unfortunately was not able to properly render the cursor onto the canvas, as I couldn't manage to delete old renderings of the
-cursor from prior renderings. I also couldn't properly rotate the cursor based on the direction. Because of that, I chose to omit the cursor component.
+## Important Notes (Edited: 10/28/18)
+* I was not able to clear the previous renderings of the cursor, so that is why the previous cursor renderings appear after each command
 
 * I have experience writing tests for functional programs in my software courses, but I am not as familiar with testing React Components
 so I wasn't able to properly write tests for my application.
