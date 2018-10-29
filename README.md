@@ -16,15 +16,15 @@ Here is my submission for the Viv Lab Frontend Coding Puzzle
 In the CodeMirror code editor, the user writes a single valid command per line. Here you can see that the commands
 rendering an image based on the list of commands.
 
-![Demo](demo.png)
+![Demo](demonstration.png)
 
 If the users chooses to reset their work in the midst of coding it, they can do so with the reset() method.
 
-![Reset](reset.png)
+![Reset](on-reset.png)
 
 If the user makes a mistake, an error message will pop up below the editor, informing them to correct their mistakes.
 
-![Error](error.png)
+![Error](on-error.png)
 
 ## Coding Process
 I found this challenge to be a bit challenging, primarily because I have not worked with code editor technologies before,
