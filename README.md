@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Logo-Writer Coding Puzzle
+# Logo-Writer Simulator Application
 ## By Justin Xie
 
 ## How it was built
@@ -10,7 +10,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   * CodeMirror React Component (imported from: https://github.com/JedWatson/react-codemirror)
   * HTML Canvas Component
 
-## How it works
+# Directions
+## Commands
+The list of commands are shown below:
+  * forward(x)
+    - this
+  * CodeMirror React Component (imported from: https://github.com/JedWatson/react-codemirror)
+  * HTML Canvas Component
+
+## Demonstration
 In the CodeMirror code editor, the user writes a single valid command per line. Here you can see that the commands
 rendering an image based on the list of commands.
 
