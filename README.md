@@ -14,9 +14,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Commands
 The list of commands are shown below:
   * forward(x)
-    - this
-  * CodeMirror React Component (imported from: https://github.com/JedWatson/react-codemirror)
-  * HTML Canvas Component
+    - draw a line *x* pixels in the current direction
+  * color(x)
+    - change the color subsequent line(s) a different color
+    - colors include: red, green, black, blue, and yellow
+  * right()
+    - rotates the current direction 90 degrees to the right
+  * left()
+    - rotates the current direction 90 degrees to the left
+  * clear()
+    - clears the canvas and reverts to default settings and location
 
 ## Demonstration
 In the CodeMirror code editor, the user writes a single valid command per line. Here you can see that the commands
