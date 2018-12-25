@@ -29,8 +29,8 @@ The list of commands are shown below:
 Enter a single command per line and press *Enter*. Lines will be rendered as you begin to type the next command.
 
 ## Demonstration
-In the CodeMirror code editor, the user writes a single valid command per line. Here you can see that the commands
-rendering an image based on the list of commands.
+In the CodeMirror code editor on the left-hand side, the user enters a single valid command per line. 
+Here you can see that the commands rendering an image based on the list of commands.
 
 Arrows are attached to the end of each line, facing the current direction, and indicating the end of the line segment.
 
